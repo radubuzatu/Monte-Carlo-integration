@@ -26,3 +26,7 @@ The resulting program is written in Python inside a Jupyter Notebook ([Monte Car
 <h3>Integration domain and distribution of inner and outer points</h3>
 
 <img align="center" width="60%" height="50%" src="https://github.com/radubuzatu/Monte-Carlo-integration/blob/main/img/domain_points.png">
+
+<h3>Monte Carlo integration convergence</h3>
+
+<img align="center" width="80%" height="80%" src="https://github.com/radubuzatu/Monte-Carlo-integration/blob/main/img/convergence.png">
