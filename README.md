@@ -9,6 +9,20 @@ $$\Omega=\begin{cases}
 
 More details on Monte Carlo integration technique can be found in [Monte Carlo integration](https://en.wikipedia.org/wiki/Monte_Carlo_integration).
 
-<h3>An example of execution </h3>
+The resulting program is written in Python inside a Jupyter Notebook ([Monte Carlo integration.ipynb](https://github.com/radubuzatu/Monte-Carlo-integration/blob/main/Monte%20Carlo%20integration.ipynb))
 
-<img align="center" width="60%" height="50%" src="https://github.com/radubuzatu/2d-Strip-Packing/blob/main/2SP%20example.png">
+<h3>The following packages are used: </h3>
+
+- numpy
+
+- matplotlib
+  
+- mpl_toolkits
+
+<h3>The surface plot of the function </h3>
+
+<img align="center" width="60%" height="50%" src="https://github.com/radubuzatu/Monte-Carlo-integration/blob/main/img/function_surface.png">
+
+<h3>Integration domain and distribution of inner and outer points</h3>
+
+<img align="center" width="60%" height="50%" src="https://github.com/radubuzatu/Monte-Carlo-integration/blob/main/img/domain_points.png">
