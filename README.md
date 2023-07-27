@@ -29,4 +29,4 @@ The resulting program is written in Python inside a Jupyter Notebook ([Monte Car
 
 <h3>Monte Carlo integration convergence</h3>
 
-<img align="center" width="80%" height="80%" src="https://github.com/radubuzatu/Monte-Carlo-integration/blob/main/img/convergence.png">
+<img align="center" width="90%" height="90%" src="https://github.com/radubuzatu/Monte-Carlo-integration/blob/main/img/convergence.png">
